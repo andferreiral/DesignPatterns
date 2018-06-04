@@ -1,5 +1,11 @@
 package chain_of_responsability_9_1;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class SlotDezCentavos implements SlotChain {
 
 	private SlotChain next;

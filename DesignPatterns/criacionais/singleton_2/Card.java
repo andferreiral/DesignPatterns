@@ -1,5 +1,11 @@
 package singleton_2;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class Card {
 	
 	private Suit suit;

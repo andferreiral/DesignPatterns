@@ -1,5 +1,11 @@
 package chain_of_responsability_9_1;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class TestaChainOfResponsability {
 	public static void main(String[] args) {
 

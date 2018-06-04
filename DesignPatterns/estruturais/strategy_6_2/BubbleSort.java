@@ -1,5 +1,11 @@
 package strategy_6_2;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class BubbleSort implements SelectionSort {
 
 	public void sort(double[] a) {

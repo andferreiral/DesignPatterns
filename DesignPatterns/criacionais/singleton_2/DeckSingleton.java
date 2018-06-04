@@ -5,6 +5,12 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class DeckSingleton {
 
 	private static DeckSingleton instance;

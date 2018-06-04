@@ -5,6 +5,12 @@ import java.util.List;
 
 import observer_8_1.ConsomeNoticia;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public abstract class Agregador implements ConsomeNoticia {
 	
 	protected List<ConsomeNoticia> assinantes = new ArrayList<>();

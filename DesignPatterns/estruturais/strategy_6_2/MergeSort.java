@@ -1,5 +1,11 @@
 package strategy_6_2;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class MergeSort implements SelectionSort {
 	@SuppressWarnings("unused")
 	private double[] list;

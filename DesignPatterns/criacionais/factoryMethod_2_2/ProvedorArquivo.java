@@ -1,5 +1,11 @@
 package factoryMethod_2_2;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public abstract class ProvedorArquivo {
 	
 	public void geraArquivo(String senha){

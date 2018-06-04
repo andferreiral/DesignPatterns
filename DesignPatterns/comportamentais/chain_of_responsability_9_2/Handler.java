@@ -1,5 +1,11 @@
 package chain_of_responsability_9_2;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class Handler implements HandlerChain {
 	
 	HandlerChain nextChain;

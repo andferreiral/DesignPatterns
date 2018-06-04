@@ -3,6 +3,12 @@ package chain_of_responsability_9_2;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class TestHandlerChain {
 
 	public static void main(String[] args) {

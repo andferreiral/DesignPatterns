@@ -3,6 +3,12 @@ package strategy_6_1;
 import java.util.Calendar;
 import java.util.Date;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class TestMensagem {
 
 	public static void main(String[] args) {

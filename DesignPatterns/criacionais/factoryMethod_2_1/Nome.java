@@ -1,5 +1,11 @@
 package factoryMethod_2_1;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class Nome {
 	private String nome;
 	private String sobrenome;

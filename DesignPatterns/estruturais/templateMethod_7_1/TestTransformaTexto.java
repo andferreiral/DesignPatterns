@@ -2,6 +2,12 @@ package templateMethod_7_1;
 
 import java.io.IOException;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class TestTransformaTexto {
 	public static void main(String[] args) throws IOException{
 		TransformaTexto transformador;

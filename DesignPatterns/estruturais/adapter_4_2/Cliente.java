@@ -1,5 +1,11 @@
 package adapter_4_2;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class Cliente {
 	private SomadorEsperado somador;
 

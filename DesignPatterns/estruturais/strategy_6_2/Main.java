@@ -2,6 +2,12 @@ package strategy_6_2;
 
 import java.text.NumberFormat;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class Main {
 	// N�mero de termos.
 	private static final int NUM = 100000;

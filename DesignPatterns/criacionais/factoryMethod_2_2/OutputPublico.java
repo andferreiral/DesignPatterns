@@ -5,6 +5,12 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class OutputPublico implements OutputFile {
 
 	@Override

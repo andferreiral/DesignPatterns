@@ -2,6 +2,12 @@ package templateMethod_7_2;
 
 import java.util.Arrays;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class TestComparator {
 	// N�mero de termos.
 	private static final int NUM = 5;

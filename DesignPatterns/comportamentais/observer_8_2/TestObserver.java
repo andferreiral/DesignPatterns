@@ -3,6 +3,12 @@ package observer_8_2;
 import observer_8_1.ConsomeNoticia;
 import observer_8_1.NoticiarioAssina;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class TestObserver {
 	public static void main(String[] args) {
 

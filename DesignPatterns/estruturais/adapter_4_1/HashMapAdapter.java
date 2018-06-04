@@ -3,7 +3,12 @@ package adapter_4_1;
 import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
-
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class HashMapAdapter<C> extends HashMap<C, C> implements Map<C, C>, Cloneable, Serializable {
 
 	private static final long serialVersionUID = 1L;

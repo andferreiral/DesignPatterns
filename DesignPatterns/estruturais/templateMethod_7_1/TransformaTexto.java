@@ -4,6 +4,12 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public abstract class TransformaTexto {
 	
 	public final void transformaTexto() throws IOException{

@@ -1,5 +1,11 @@
 package templateMethod_7_1;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class TextoMaiusculo extends TransformaTexto {
 
 	@Override

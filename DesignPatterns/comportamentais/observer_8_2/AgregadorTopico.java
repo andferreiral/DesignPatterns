@@ -2,6 +2,12 @@ package observer_8_2;
 
 import observer_8_1.ConsomeNoticia;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class AgregadorTopico extends Agregador {
 	
 	private String topico;

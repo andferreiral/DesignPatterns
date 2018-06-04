@@ -3,6 +3,12 @@ package observer_8_1;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class NoticiarioAssina extends Noticiario {
 	
 	private List<ConsomeNoticia> leitores = new ArrayList<>();

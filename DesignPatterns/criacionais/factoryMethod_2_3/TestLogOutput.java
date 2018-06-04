@@ -1,5 +1,11 @@
 package factoryMethod_2_3;
 
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class TestLogOutput {
 
 	public static void main(String[] args) {

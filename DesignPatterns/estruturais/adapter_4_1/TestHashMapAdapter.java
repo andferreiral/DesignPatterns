@@ -1,7 +1,12 @@
 package adapter_4_1;
 
 import java.util.Map;
-
+/**
+ * 
+ * @author Andrey
+ *
+ * R.A: 816118662
+ */
 public class TestHashMapAdapter {
 	public static void main(String[] args){
 		//matriz de inteiros
